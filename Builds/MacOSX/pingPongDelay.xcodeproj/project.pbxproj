@@ -1,0 +1,2062 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+		017E84674820A678C87D3B4B = {
+			isa = PBXBuildFile;
+			fileRef = 016FD1DBF603F3D37C37A30C;
+		};
+		E7DA51C3B50EDE4315411F61 = {
+			isa = PBXBuildFile;
+			fileRef = C8449EEB99B4FDC120F16DE8;
+		};
+		5DC8176C281A3354E9CE9539 = {
+			isa = PBXBuildFile;
+			fileRef = 8101EBB25A5E706EE154EF48;
+		};
+		9230C14EB65F1A7C6EF74DE8 = {
+			isa = PBXBuildFile;
+			fileRef = 86EB24DF69806A6429916215;
+		};
+		8F402528BAD77DC560C0561C = {
+			isa = PBXBuildFile;
+			fileRef = CEB41DE7E71AE632E0755BF9;
+		};
+		29D543C07810CA64B295C262 = {
+			isa = PBXBuildFile;
+			fileRef = 7867F6215A10BDF4B23A318D;
+		};
+		4EA681DFA1101B69DDA9ED54 = {
+			isa = PBXBuildFile;
+			fileRef = 0009F2816CC1D99F7A154C33;
+		};
+		A792A2A70C16B3DFFE5BD9EE = {
+			isa = PBXBuildFile;
+			fileRef = BDC33DB37238BD1AE21A6A95;
+		};
+		3652DEC8B2E63C01EBB04687 = {
+			isa = PBXBuildFile;
+			fileRef = 47AD6E52481F535B4B91F35D;
+		};
+		54C689E1AD8EA53699416B7B = {
+			isa = PBXBuildFile;
+			fileRef = 0D22DA03DDB82A5C44082920;
+		};
+		701CFE19A68537352E3D3B79 = {
+			isa = PBXBuildFile;
+			fileRef = 94BC9FEBD61037BC91A2ABAD;
+		};
+		CF863E86BE6B20EF6F2D7394 = {
+			isa = PBXBuildFile;
+			fileRef = DAAA3C72012DE9677088F381;
+		};
+		2546422F025F9E698A5B88D2 = {
+			isa = PBXBuildFile;
+			fileRef = 98757FB818F96D906209642C;
+		};
+		D2DAA443DDACADE6164E44DA = {
+			isa = PBXBuildFile;
+			fileRef = DDA627D91BE332A0FB1CC86D;
+		};
+		C4FB1BA22720594E03E7A3BD = {
+			isa = PBXBuildFile;
+			fileRef = 7AF898B4F78474B500A94CD8;
+		};
+		FF37EB63B93FC2A2B0C417BF = {
+			isa = PBXBuildFile;
+			fileRef = 172AF59B9C842091B2621C75;
+		};
+		09025445913996AF817EF7B9 = {
+			isa = PBXBuildFile;
+			fileRef = 114F22F4293A4F5DE5255178;
+		};
+		DADD388C9A983275CAF725EC = {
+			isa = PBXBuildFile;
+			fileRef = BFD5076DCCB7097E2C8C6B4A;
+		};
+		3557FE29C93D9E16342DBC65 = {
+			isa = PBXBuildFile;
+			fileRef = 294D7CDAD18B9528D21FC56F;
+		};
+		E43B87374814FB2A6C0DECD3 = {
+			isa = PBXBuildFile;
+			fileRef = 97EA19EB0C82DB77A102F2CD;
+		};
+		5BC2194467EC61BEB302BE7D = {
+			isa = PBXBuildFile;
+			fileRef = E2BF874BFB4E9598E9E32F43;
+		};
+		C60FB04B7B780A2B56FCAB1F = {
+			isa = PBXBuildFile;
+			fileRef = 443C79799D8F8CBCB2689DC9;
+		};
+		1390A0D9867E86677501C029 = {
+			isa = PBXBuildFile;
+			fileRef = 4FC34E4EDC64A10D1728472A;
+		};
+		D645C576357E9589DC88459D = {
+			isa = PBXBuildFile;
+			fileRef = C0AABA5673A2DE1BC72F1469;
+		};
+		61CCE47863E307E3B47C6D1C = {
+			isa = PBXBuildFile;
+			fileRef = 559E3CAC8E4CBC5C423B78A8;
+		};
+		62B81AEBF2582114C3C58BA4 = {
+			isa = PBXBuildFile;
+			fileRef = E73BD16C990F9505460ECF30;
+		};
+		6E04F7DDE4EC6F6B9CE2705F = {
+			isa = PBXBuildFile;
+			fileRef = B7D4342BC396EADE7BF1A8AA;
+		};
+		0743CC2CBA09A113940929C1 = {
+			isa = PBXBuildFile;
+			fileRef = E59B4345826211B74245115F;
+		};
+		B13CE02EC59FFFE5CD7ECAFB = {
+			isa = PBXBuildFile;
+			fileRef = 23EE54B3F6916A037480F2EB;
+		};
+		432EEC5F6257FD0BE60E1D7E = {
+			isa = PBXBuildFile;
+			fileRef = 9DBDF9685031BCC8360677FC;
+		};
+		E7A9DE27ED35E55884833A7A = {
+			isa = PBXBuildFile;
+			fileRef = B1309D29C67459E530BA4FE8;
+		};
+		3A55366E13AE809273AA6ACA = {
+			isa = PBXBuildFile;
+			fileRef = 38005D9BB12C32930E246ADE;
+		};
+		C498878E0FE67BCC9BC98B51 = {
+			isa = PBXBuildFile;
+			fileRef = 1E000440FCDB950AC2869C3F;
+		};
+		B287C3E8BD73572D9F54C11E = {
+			isa = PBXBuildFile;
+			fileRef = B5D0924556018DA1EF0A2B99;
+		};
+		2AFE598F6F7FFCC57C106C39 = {
+			isa = PBXBuildFile;
+			fileRef = D451C8C760E4B0384B3B9CC6;
+		};
+		3748BC02E4C8993764C043E2 = {
+			isa = PBXBuildFile;
+			fileRef = 2402E772F6D8A5FAAA4D7EA1;
+		};
+		760983B5874E2423D37AA79A = {
+			isa = PBXBuildFile;
+			fileRef = 877F4C8B8B5647C234806288;
+		};
+		FCE8C865870003729898C274 = {
+			isa = PBXBuildFile;
+			fileRef = 1C7B1D17AD31A3C8AA4FB068;
+		};
+		0009F2816CC1D99F7A154C33 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = AudioToolbox.framework;
+			path = System/Library/Frameworks/AudioToolbox.framework;
+			sourceTree = SDKROOT;
+		};
+		016FD1DBF603F3D37C37A30C = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.cfbundle;
+			includeInIndex = 0;
+			path = pingPongDelay.vst3;
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		0B2D3FB42E6CA3273E2C02BF = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_graphics";
+			path = "/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_graphics";
+			sourceTree = "<absolute>";
+		};
+		0D22DA03DDB82A5C44082920 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreAudio.framework;
+			path = System/Library/Frameworks/CoreAudio.framework;
+			sourceTree = SDKROOT;
+		};
+		114F22F4293A4F5DE5255178 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = WebKit.framework;
+			path = System/Library/Frameworks/WebKit.framework;
+			sourceTree = SDKROOT;
+		};
+		11FA3FF820BC9CAF1E32C6CD = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			name = "Info-Standalone_Plugin.plist";
+			path = "Info-Standalone_Plugin.plist";
+			sourceTree = "SOURCE_ROOT";
+		};
+		1508CC4084067C6C951AAEC3 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_devices";
+			path = "/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_devices";
+			sourceTree = "<absolute>";
+		};
+		172AF59B9C842091B2621C75 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = QuartzCore.framework;
+			path = System/Library/Frameworks/QuartzCore.framework;
+			sourceTree = SDKROOT;
+		};
+		1C7B1D17AD31A3C8AA4FB068 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_gui_extra.mm";
+			path = "../../JuceLibraryCode/include_juce_gui_extra.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		1E000440FCDB950AC2869C3F = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_core.mm";
+			path = "../../JuceLibraryCode/include_juce_core.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		1E42814FF4A83F1F53CC70F2 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = PluginProcessor.h;
+			path = ../../Source/PluginProcessor.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		23EE54B3F6916A037480F2EB = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_plugin_client_VST_utils.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_VST_utils.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		2402E772F6D8A5FAAA4D7EA1 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_graphics.mm";
+			path = "../../JuceLibraryCode/include_juce_graphics.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		26E49BBFFBABB876147EBCA9 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_formats";
+			path = "/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_formats";
+			sourceTree = "<absolute>";
+		};
+		26F337302FC776714E52F8C7 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = JucePluginDefines.h;
+			path = ../../JuceLibraryCode/JucePluginDefines.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		294D7CDAD18B9528D21FC56F = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = PluginProcessor.cpp;
+			path = ../../Source/PluginProcessor.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		298C6E73805627572B52905B = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_basics";
+			path = "/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_basics";
+			sourceTree = "<absolute>";
+		};
+		38005D9BB12C32930E246ADE = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_utils.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_utils.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		421432FBC9786B30A5961389 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_gui_extra";
+			path = "/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_gui_extra";
+			sourceTree = "<absolute>";
+		};
+		443C79799D8F8CBCB2689DC9 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_devices.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_devices.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		47AD6E52481F535B4B91F35D = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Cocoa.framework;
+			path = System/Library/Frameworks/Cocoa.framework;
+			sourceTree = SDKROOT;
+		};
+		4FC34E4EDC64A10D1728472A = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_formats.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_formats.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		540FF6341124EA702A58362E = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = JuceHeader.h;
+			path = ../../JuceLibraryCode/JuceHeader.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		559E3CAC8E4CBC5C423B78A8 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_plugin_client_AU_1.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_AU_1.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		5B419CEB2C3FF5565CDAC9F7 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_core";
+			path = "/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_core";
+			sourceTree = "<absolute>";
+		};
+		5B9C7BE0870ADC6C4767ADF6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_gui_basics";
+			path = "/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_gui_basics";
+			sourceTree = "<absolute>";
+		};
+		7867F6215A10BDF4B23A318D = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Accelerate.framework;
+			path = System/Library/Frameworks/Accelerate.framework;
+			sourceTree = SDKROOT;
+		};
+		7AF898B4F78474B500A94CD8 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = IOKit.framework;
+			path = System/Library/Frameworks/IOKit.framework;
+			sourceTree = SDKROOT;
+		};
+		877F4C8B8B5647C234806288 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_gui_basics.mm";
+			path = "../../JuceLibraryCode/include_juce_gui_basics.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		8E6DA59AF5FEFA192AA382EE = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			name = "Info-VST3.plist";
+			path = "Info-VST3.plist";
+			sourceTree = "SOURCE_ROOT";
+		};
+		94BC9FEBD61037BC91A2ABAD = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreAudioKit.framework;
+			path = System/Library/Frameworks/CoreAudioKit.framework;
+			sourceTree = SDKROOT;
+		};
+		98757FB818F96D906209642C = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = DiscRecording.framework;
+			path = System/Library/Frameworks/DiscRecording.framework;
+			sourceTree = SDKROOT;
+		};
+		9DBDF9685031BCC8360677FC = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = "include_juce_audio_plugin_client_VST3.cpp";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_VST3.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		A92379ABD242D1DF5B096FB8 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_utils";
+			path = "/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_utils";
+			sourceTree = "<absolute>";
+		};
+		B1309D29C67459E530BA4FE8 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_processors.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_processors.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		B5D0924556018DA1EF0A2B99 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_data_structures.mm";
+			path = "../../JuceLibraryCode/include_juce_data_structures.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		B7D4342BC396EADE7BF1A8AA = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = "include_juce_audio_plugin_client_Standalone.cpp";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_Standalone.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		BDC33DB37238BD1AE21A6A95 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Carbon.framework;
+			path = System/Library/Frameworks/Carbon.framework;
+			sourceTree = SDKROOT;
+		};
+		C0AABA5673A2DE1BC72F1469 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file.r;
+			name = "include_juce_audio_plugin_client_AU.r";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_AU.r";
+			sourceTree = "SOURCE_ROOT";
+		};
+		C8449EEB99B4FDC120F16DE8 = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.cfbundle;
+			includeInIndex = 0;
+			path = pingPongDelay.component;
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		8101EBB25A5E706EE154EF48 = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.application;
+			includeInIndex = 0;
+			path = pingPongDelay.app;
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		86EB24DF69806A6429916215 = {
+			isa = PBXFileReference;
+			explicitFileType = archive.ar;
+			includeInIndex = 0;
+			path = libpingPongDelay.a;
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		97EA19EB0C82DB77A102F2CD = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = PluginEditor.cpp;
+			path = ../../Source/PluginEditor.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		BFD5076DCCB7097E2C8C6B4A = {
+			isa = PBXFileReference;
+			lastKnownFileType = file.nib;
+			name = RecentFilesMenuTemplate.nib;
+			path = RecentFilesMenuTemplate.nib;
+			sourceTree = "SOURCE_ROOT";
+		};
+		C12F490EDA4563F5E15F1518 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			name = "Info-AU.plist";
+			path = "Info-AU.plist";
+			sourceTree = "SOURCE_ROOT";
+		};
+		CB7C00A69C2A2155724AB986 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_processors";
+			path = "/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_processors";
+			sourceTree = "<absolute>";
+		};
+		CCA02EBE5EFEEE2C202DEA4B = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_events";
+			path = "/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_events";
+			sourceTree = "<absolute>";
+		};
+		CD038CCB2BF879FC7D100E2B = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_plugin_client";
+			path = "/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_plugin_client";
+			sourceTree = "<absolute>";
+		};
+		CEB41DE7E71AE632E0755BF9 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = AudioUnit.framework;
+			path = System/Library/Frameworks/AudioUnit.framework;
+			sourceTree = SDKROOT;
+		};
+		D451C8C760E4B0384B3B9CC6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_events.mm";
+			path = "../../JuceLibraryCode/include_juce_events.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		DAAA3C72012DE9677088F381 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreMIDI.framework;
+			path = System/Library/Frameworks/CoreMIDI.framework;
+			sourceTree = SDKROOT;
+		};
+		DDA627D91BE332A0FB1CC86D = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Foundation.framework;
+			path = System/Library/Frameworks/Foundation.framework;
+			sourceTree = SDKROOT;
+		};
+		E2AD2A45292C336BFF3816DC = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_data_structures";
+			path = "/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_data_structures";
+			sourceTree = "<absolute>";
+		};
+		E2BF874BFB4E9598E9E32F43 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_basics.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_basics.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		E59B4345826211B74245115F = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = "include_juce_audio_plugin_client_utils.cpp";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_utils.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		E73BD16C990F9505460ECF30 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_plugin_client_AU_2.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_AU_2.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		E982C7F87023EF80B4235BB6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = PluginEditor.h;
+			path = ../../Source/PluginEditor.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		0C6EB9D174B449FEA180C891 = {
+			isa = PBXGroup;
+			children = (
+				294D7CDAD18B9528D21FC56F,
+				1E42814FF4A83F1F53CC70F2,
+				97EA19EB0C82DB77A102F2CD,
+				E982C7F87023EF80B4235BB6,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		524852D7C57EA7590513F6EB = {
+			isa = PBXGroup;
+			children = (
+				0C6EB9D174B449FEA180C891,
+			);
+			name = pingPongDelay;
+			sourceTree = "<group>";
+		};
+		5A61B8F5BD3F053384C9C4A8 = {
+			isa = PBXGroup;
+			children = (
+				298C6E73805627572B52905B,
+				1508CC4084067C6C951AAEC3,
+				26E49BBFFBABB876147EBCA9,
+				CD038CCB2BF879FC7D100E2B,
+				CB7C00A69C2A2155724AB986,
+				A92379ABD242D1DF5B096FB8,
+				5B419CEB2C3FF5565CDAC9F7,
+				E2AD2A45292C336BFF3816DC,
+				CCA02EBE5EFEEE2C202DEA4B,
+				0B2D3FB42E6CA3273E2C02BF,
+				5B9C7BE0870ADC6C4767ADF6,
+				421432FBC9786B30A5961389,
+			);
+			name = "JUCE Modules";
+			sourceTree = "<group>";
+		};
+		011D9706309D3D7046BDECAC = {
+			isa = PBXGroup;
+			children = (
+				E2BF874BFB4E9598E9E32F43,
+				443C79799D8F8CBCB2689DC9,
+				4FC34E4EDC64A10D1728472A,
+				C0AABA5673A2DE1BC72F1469,
+				559E3CAC8E4CBC5C423B78A8,
+				E73BD16C990F9505460ECF30,
+				B7D4342BC396EADE7BF1A8AA,
+				E59B4345826211B74245115F,
+				23EE54B3F6916A037480F2EB,
+				9DBDF9685031BCC8360677FC,
+				B1309D29C67459E530BA4FE8,
+				38005D9BB12C32930E246ADE,
+				1E000440FCDB950AC2869C3F,
+				B5D0924556018DA1EF0A2B99,
+				D451C8C760E4B0384B3B9CC6,
+				2402E772F6D8A5FAAA4D7EA1,
+				877F4C8B8B5647C234806288,
+				1C7B1D17AD31A3C8AA4FB068,
+				540FF6341124EA702A58362E,
+				26F337302FC776714E52F8C7,
+			);
+			name = "JUCE Library Code";
+			sourceTree = "<group>";
+		};
+		6446043D21FED16353077B18 = {
+			isa = PBXGroup;
+			children = (
+				8E6DA59AF5FEFA192AA382EE,
+				C12F490EDA4563F5E15F1518,
+				11FA3FF820BC9CAF1E32C6CD,
+				BFD5076DCCB7097E2C8C6B4A,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		6B2B25D93BEC2D64447E9449 = {
+			isa = PBXGroup;
+			children = (
+				CEB41DE7E71AE632E0755BF9,
+				7867F6215A10BDF4B23A318D,
+				0009F2816CC1D99F7A154C33,
+				BDC33DB37238BD1AE21A6A95,
+				47AD6E52481F535B4B91F35D,
+				0D22DA03DDB82A5C44082920,
+				94BC9FEBD61037BC91A2ABAD,
+				DAAA3C72012DE9677088F381,
+				98757FB818F96D906209642C,
+				DDA627D91BE332A0FB1CC86D,
+				7AF898B4F78474B500A94CD8,
+				172AF59B9C842091B2621C75,
+				114F22F4293A4F5DE5255178,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		0150F0469685847E17C23CB7 = {
+			isa = PBXGroup;
+			children = (
+				016FD1DBF603F3D37C37A30C,
+				C8449EEB99B4FDC120F16DE8,
+				8101EBB25A5E706EE154EF48,
+				86EB24DF69806A6429916215,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		918286B9E195CCC16A89E684 = {
+			isa = PBXGroup;
+			children = (
+				524852D7C57EA7590513F6EB,
+				5A61B8F5BD3F053384C9C4A8,
+				011D9706309D3D7046BDECAC,
+				6446043D21FED16353077B18,
+				6B2B25D93BEC2D64447E9449,
+				0150F0469685847E17C23CB7,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		1BC20D4600724CC2069D3908 = {
+			isa = PBXTargetDependency;
+			target = CD2646D0BE21DEA7B60F2181;
+		};
+		D8F313AF45E942612EA92FF0 = {
+			isa = PBXTargetDependency;
+			target = F0F9BBBAA0E2C9F3579DED8E;
+		};
+		C98B2507073D302EDB3238CC = {
+			isa = PBXTargetDependency;
+			target = EC096D9AAA6237908E78EF5A;
+		};
+		908D5A4043B73E6849687CC6 = {
+			isa = PBXTargetDependency;
+			target = FC1D12D530528175FC3117F3;
+		};
+		57EA2CD03147D9723914AF4D = {
+			isa = PBXTargetDependency;
+			target = FC1D12D530528175FC3117F3;
+		};
+		36E4AA83BF306AB6C7173C69 = {
+			isa = PBXTargetDependency;
+			target = FC1D12D530528175FC3117F3;
+		};
+		A8AF2E96410B85B10BFD0FB6 = {
+			isa = PBXTargetDependency;
+			target = FC1D12D530528175FC3117F3;
+		};
+		3E75EED3B0F559B60C11C5FC = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		23DAFCB63DEA635A97A85DFB = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		A7DAE33A3B992FA4C8A3629C = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=0",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60005",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"pingPongDelay\\\"",
+					"JucePlugin_Desc=\\\"pingPongDelay\\\"",
+					"JucePlugin_Manufacturer=\\\"Rachels\\ Delays\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x53736a63",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx|Delay\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=pingPongDelayAU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"pingPongDelayAU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.yourcompany.pingPongDelay",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.yourcompany.pingPongDelay",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"Rachels\\ Delays:\\ pingPongDelay\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JucePlugin_MaxNumInputChannels=2",
+					"JucePlugin_MaxNumOutputChannels=2",
+					"JucePlugin_PreferredChannelConfigurations={2,\\ 2}",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"../../JuceLibraryCode",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules\"",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_plugin_client\"",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-VST3.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/VST3/";
+				LIBRARY_STYLE = Bundle;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"../../JuceLibraryCode",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules\"",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_plugin_client\"",
+				);
+				OTHER_CPLUSPLUSFLAGS = "-Werror";
+				OTHER_LDFLAGS = "-bundle -lpingPongDelay";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.pingPongDelay;
+				PRODUCT_NAME = "pingPongDelay";
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+				WRAPPER_EXTENSION = vst3;
+			};
+			name = Debug;
+		};
+		FA935B71D153AF9AA3F94B5B = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=0",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60005",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"pingPongDelay\\\"",
+					"JucePlugin_Desc=\\\"pingPongDelay\\\"",
+					"JucePlugin_Manufacturer=\\\"Rachels\\ Delays\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x53736a63",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx|Delay\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=pingPongDelayAU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"pingPongDelayAU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.yourcompany.pingPongDelay",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.yourcompany.pingPongDelay",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"Rachels\\ Delays:\\ pingPongDelay\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JucePlugin_MaxNumInputChannels=2",
+					"JucePlugin_MaxNumOutputChannels=2",
+					"JucePlugin_PreferredChannelConfigurations={2,\\ 2}",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"../../JuceLibraryCode",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules\"",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_plugin_client\"",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-VST3.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/VST3/";
+				LIBRARY_STYLE = Bundle;
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"../../JuceLibraryCode",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules\"",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_plugin_client\"",
+				);
+				OTHER_CPLUSPLUSFLAGS = "-Werror";
+				OTHER_LDFLAGS = "-bundle -lpingPongDelay";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.pingPongDelay;
+				PRODUCT_NAME = "pingPongDelay";
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+				WRAPPER_EXTENSION = vst3;
+			};
+			name = Release;
+		};
+		73A7FF7BB7711615704DEAA5 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=0",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60005",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"pingPongDelay\\\"",
+					"JucePlugin_Desc=\\\"pingPongDelay\\\"",
+					"JucePlugin_Manufacturer=\\\"Rachels\\ Delays\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x53736a63",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx|Delay\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=pingPongDelayAU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"pingPongDelayAU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.yourcompany.pingPongDelay",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.yourcompany.pingPongDelay",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"Rachels\\ Delays:\\ pingPongDelay\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JucePlugin_MaxNumInputChannels=2",
+					"JucePlugin_MaxNumOutputChannels=2",
+					"JucePlugin_PreferredChannelConfigurations={2,\\ 2}",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"../../JuceLibraryCode",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules\"",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_plugin_client\"",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-AU.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/Components/";
+				LIBRARY_STYLE = Bundle;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"../../JuceLibraryCode",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules\"",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_plugin_client\"",
+				);
+				OTHER_CPLUSPLUSFLAGS = "-Werror";
+				OTHER_LDFLAGS = "-bundle -lpingPongDelay";
+				OTHER_REZFLAGS = "-d ppc_$ppc -d i386_$i386 -d ppc64_$ppc64 -d x86_64_$x86_64 -I /System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Versions/A/Headers -I \"$(DEVELOPER_DIR)/Extras/CoreAudio/AudioUnits/AUPublic/AUBase\" -I \"$(DEVELOPER_DIR)/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/AudioUnit.framework/Headers\"";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.pingPongDelay;
+				PRODUCT_NAME = "pingPongDelay";
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+				WRAPPER_EXTENSION = component;
+			};
+			name = Debug;
+		};
+		A1613B1088E64D30C12C6097 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=0",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60005",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"pingPongDelay\\\"",
+					"JucePlugin_Desc=\\\"pingPongDelay\\\"",
+					"JucePlugin_Manufacturer=\\\"Rachels\\ Delays\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x53736a63",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx|Delay\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=pingPongDelayAU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"pingPongDelayAU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.yourcompany.pingPongDelay",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.yourcompany.pingPongDelay",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"Rachels\\ Delays:\\ pingPongDelay\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JucePlugin_MaxNumInputChannels=2",
+					"JucePlugin_MaxNumOutputChannels=2",
+					"JucePlugin_PreferredChannelConfigurations={2,\\ 2}",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"../../JuceLibraryCode",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules\"",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_plugin_client\"",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-AU.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/Components/";
+				LIBRARY_STYLE = Bundle;
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"../../JuceLibraryCode",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules\"",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_plugin_client\"",
+				);
+				OTHER_CPLUSPLUSFLAGS = "-Werror";
+				OTHER_LDFLAGS = "-bundle -lpingPongDelay";
+				OTHER_REZFLAGS = "-d ppc_$ppc -d i386_$i386 -d ppc64_$ppc64 -d x86_64_$x86_64 -I /System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Versions/A/Headers -I \"$(DEVELOPER_DIR)/Extras/CoreAudio/AudioUnits/AUPublic/AUBase\" -I \"$(DEVELOPER_DIR)/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/AudioUnit.framework/Headers\"";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.pingPongDelay;
+				PRODUCT_NAME = "pingPongDelay";
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+				WRAPPER_EXTENSION = component;
+			};
+			name = Release;
+		};
+		7E350E0640BCF110C0818E29 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=0",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60005",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=1",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"pingPongDelay\\\"",
+					"JucePlugin_Desc=\\\"pingPongDelay\\\"",
+					"JucePlugin_Manufacturer=\\\"Rachels\\ Delays\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x53736a63",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx|Delay\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=pingPongDelayAU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"pingPongDelayAU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.yourcompany.pingPongDelay",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.yourcompany.pingPongDelay",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"Rachels\\ Delays:\\ pingPongDelay\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JucePlugin_MaxNumInputChannels=2",
+					"JucePlugin_MaxNumOutputChannels=2",
+					"JucePlugin_PreferredChannelConfigurations={2,\\ 2}",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"../../JuceLibraryCode",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules\"",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_plugin_client\"",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-Standalone_Plugin.plist;
+				INFOPLIST_PREPROCESS = NO;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"../../JuceLibraryCode",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules\"",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_plugin_client\"",
+				);
+				OTHER_CPLUSPLUSFLAGS = "-Werror";
+				OTHER_LDFLAGS = "-lpingPongDelay";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.pingPongDelay;
+				PRODUCT_NAME = "pingPongDelay";
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+			};
+			name = Debug;
+		};
+		1EFD69D06288298CDD63C00A = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=0",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60005",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=1",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"pingPongDelay\\\"",
+					"JucePlugin_Desc=\\\"pingPongDelay\\\"",
+					"JucePlugin_Manufacturer=\\\"Rachels\\ Delays\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x53736a63",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx|Delay\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=pingPongDelayAU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"pingPongDelayAU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.yourcompany.pingPongDelay",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.yourcompany.pingPongDelay",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"Rachels\\ Delays:\\ pingPongDelay\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JucePlugin_MaxNumInputChannels=2",
+					"JucePlugin_MaxNumOutputChannels=2",
+					"JucePlugin_PreferredChannelConfigurations={2,\\ 2}",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"../../JuceLibraryCode",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules\"",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_plugin_client\"",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-Standalone_Plugin.plist;
+				INFOPLIST_PREPROCESS = NO;
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"../../JuceLibraryCode",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules\"",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_plugin_client\"",
+				);
+				OTHER_CPLUSPLUSFLAGS = "-Werror";
+				OTHER_LDFLAGS = "-lpingPongDelay";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.pingPongDelay;
+				PRODUCT_NAME = "pingPongDelay";
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+			};
+			name = Release;
+		};
+		D5DCDEBDA76DCB705CB676D3 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=0",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60005",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=1",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"pingPongDelay\\\"",
+					"JucePlugin_Desc=\\\"pingPongDelay\\\"",
+					"JucePlugin_Manufacturer=\\\"Rachels\\ Delays\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x53736a63",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx|Delay\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=pingPongDelayAU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"pingPongDelayAU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.yourcompany.pingPongDelay",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.yourcompany.pingPongDelay",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"Rachels\\ Delays:\\ pingPongDelay\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JucePlugin_MaxNumInputChannels=2",
+					"JucePlugin_MaxNumOutputChannels=2",
+					"JucePlugin_PreferredChannelConfigurations={2,\\ 2}",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JUCE_SHARED_CODE=1",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"../../JuceLibraryCode",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules\"",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_plugin_client\"",
+					"$(inherited)",
+				);
+				INSTALL_PATH = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"../../JuceLibraryCode",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules\"",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_plugin_client\"",
+				);
+				OTHER_CPLUSPLUSFLAGS = "-Werror";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.pingPongDelay;
+				PRODUCT_NAME = "pingPongDelay";
+				SKIP_INSTALL = YES;
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+			};
+			name = Debug;
+		};
+		2D1CFA7705E4DE262D609DA6 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=0",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60005",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=1",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"pingPongDelay\\\"",
+					"JucePlugin_Desc=\\\"pingPongDelay\\\"",
+					"JucePlugin_Manufacturer=\\\"Rachels\\ Delays\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x53736a63",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx|Delay\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=pingPongDelayAU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"pingPongDelayAU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.yourcompany.pingPongDelay",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.yourcompany.pingPongDelay",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"Rachels\\ Delays:\\ pingPongDelay\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JucePlugin_MaxNumInputChannels=2",
+					"JucePlugin_MaxNumOutputChannels=2",
+					"JucePlugin_PreferredChannelConfigurations={2,\\ 2}",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JUCE_SHARED_CODE=1",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"../../JuceLibraryCode",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules\"",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_plugin_client\"",
+					"$(inherited)",
+				);
+				INSTALL_PATH = "@executable_path/../Frameworks";
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"../../JuceLibraryCode",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules\"",
+					"\"/Users/philfasan/Desktop/Desktop – Philip’s MacBook Pro/JUCE/modules/juce_audio_plugin_client\"",
+				);
+				OTHER_CPLUSPLUSFLAGS = "-Werror";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.pingPongDelay;
+				PRODUCT_NAME = "pingPongDelay";
+				SKIP_INSTALL = YES;
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+			};
+			name = Release;
+		};
+		F92395AFB8D8B3F23B602CA3 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = NO;
+				GCC_C_LANGUAGE_STANDARD = c11;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_CHECK_SWITCH_STATEMENTS = YES;
+				GCC_WARN_MISSING_PARENTHESES = YES;
+				GCC_WARN_NON_VIRTUAL_DESTRUCTOR = YES;
+				GCC_WARN_TYPECHECK_CALLS_TO_PRINTF = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "pingPongDelay";
+				SDKROOT = macosx;
+				WARNING_CFLAGS = "-Wreorder";
+				ZERO_LINK = NO;
+			};
+			name = Debug;
+		};
+		F65FC7AA34145C9E91B5F5F1 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = NO;
+				GCC_C_LANGUAGE_STANDARD = c11;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_CHECK_SWITCH_STATEMENTS = YES;
+				GCC_WARN_MISSING_PARENTHESES = YES;
+				GCC_WARN_NON_VIRTUAL_DESTRUCTOR = YES;
+				GCC_WARN_TYPECHECK_CALLS_TO_PRINTF = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PRODUCT_NAME = "pingPongDelay";
+				SDKROOT = macosx;
+				WARNING_CFLAGS = "-Wreorder";
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		B42488A41804341B5D50A0A7 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F92395AFB8D8B3F23B602CA3,
+				F65FC7AA34145C9E91B5F5F1,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		F3B6FCBC6C6EAC8A7CC46BA4 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3E75EED3B0F559B60C11C5FC,
+				23DAFCB63DEA635A97A85DFB,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		17B841E5DA2A15484A267D62 = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = F3B6FCBC6C6EAC8A7CC46BA4;
+			buildPhases = ( );
+			buildRules = ( );
+			dependencies = (
+				1BC20D4600724CC2069D3908,
+				D8F313AF45E942612EA92FF0,
+				C98B2507073D302EDB3238CC,
+				908D5A4043B73E6849687CC6,
+			);
+			name = "pingPongDelay - All";
+			productName = pingPongDelay;
+		};
+		A3A62790220AC94CBE1560A5 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A7DAE33A3B992FA4C8A3629C,
+				FA935B71D153AF9AA3F94B5B,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		2D2E6CE332E7F7B9A2D594A1 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DADD388C9A983275CAF725EC,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2A016D0BAB08ECD8188D6CE7 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				432EEC5F6257FD0BE60E1D7E,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F0F65D5871AE4B9BA464E288 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				29D543C07810CA64B295C262,
+				4EA681DFA1101B69DDA9ED54,
+				A792A2A70C16B3DFFE5BD9EE,
+				3652DEC8B2E63C01EBB04687,
+				54C689E1AD8EA53699416B7B,
+				701CFE19A68537352E3D3B79,
+				CF863E86BE6B20EF6F2D7394,
+				2546422F025F9E698A5B88D2,
+				D2DAA443DDACADE6164E44DA,
+				C4FB1BA22720594E03E7A3BD,
+				FF37EB63B93FC2A2B0C417BF,
+				09025445913996AF817EF7B9,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CD2646D0BE21DEA7B60F2181 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A3A62790220AC94CBE1560A5;
+			buildPhases = (
+				2D2E6CE332E7F7B9A2D594A1,
+				2A016D0BAB08ECD8188D6CE7,
+				F0F65D5871AE4B9BA464E288,
+			);
+			buildRules = ( );
+			dependencies = (
+				57EA2CD03147D9723914AF4D,
+			);
+			name = "pingPongDelay - VST3";
+			productName = pingPongDelay;
+			productReference = 016FD1DBF603F3D37C37A30C;
+			productType = "com.apple.product-type.bundle";
+		};
+		E27C027F458108C937E283AC = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				73A7FF7BB7711615704DEAA5,
+				A1613B1088E64D30C12C6097,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		D6027B2BA54791B4E005E7FF = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DADD388C9A983275CAF725EC,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		778D8F68982043C94F966526 = {
+			isa = PBXRezBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D645C576357E9589DC88459D,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		98401D5B3AFB178551991AC1 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				61CCE47863E307E3B47C6D1C,
+				62B81AEBF2582114C3C58BA4,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0E9F4B783AF180BC99510C5B = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8F402528BAD77DC560C0561C,
+				29D543C07810CA64B295C262,
+				4EA681DFA1101B69DDA9ED54,
+				A792A2A70C16B3DFFE5BD9EE,
+				3652DEC8B2E63C01EBB04687,
+				54C689E1AD8EA53699416B7B,
+				701CFE19A68537352E3D3B79,
+				CF863E86BE6B20EF6F2D7394,
+				2546422F025F9E698A5B88D2,
+				D2DAA443DDACADE6164E44DA,
+				C4FB1BA22720594E03E7A3BD,
+				FF37EB63B93FC2A2B0C417BF,
+				09025445913996AF817EF7B9,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F0F9BBBAA0E2C9F3579DED8E = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E27C027F458108C937E283AC;
+			buildPhases = (
+				D6027B2BA54791B4E005E7FF,
+				778D8F68982043C94F966526,
+				98401D5B3AFB178551991AC1,
+				0E9F4B783AF180BC99510C5B,
+			);
+			buildRules = ( );
+			dependencies = (
+				36E4AA83BF306AB6C7173C69,
+			);
+			name = "pingPongDelay - AU";
+			productName = pingPongDelay;
+			productReference = C8449EEB99B4FDC120F16DE8;
+			productType = "com.apple.product-type.bundle";
+		};
+		7512932346624BC9847B8DBA = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7E350E0640BCF110C0818E29,
+				1EFD69D06288298CDD63C00A,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		9E04628C38F326FA0D125A24 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DADD388C9A983275CAF725EC,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		99BA63AE7A4A91F5D374F5F6 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6E04F7DDE4EC6F6B9CE2705F,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		062CC62A212F50661B9E9226 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				29D543C07810CA64B295C262,
+				4EA681DFA1101B69DDA9ED54,
+				A792A2A70C16B3DFFE5BD9EE,
+				3652DEC8B2E63C01EBB04687,
+				54C689E1AD8EA53699416B7B,
+				701CFE19A68537352E3D3B79,
+				CF863E86BE6B20EF6F2D7394,
+				2546422F025F9E698A5B88D2,
+				D2DAA443DDACADE6164E44DA,
+				C4FB1BA22720594E03E7A3BD,
+				FF37EB63B93FC2A2B0C417BF,
+				09025445913996AF817EF7B9,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EC096D9AAA6237908E78EF5A = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7512932346624BC9847B8DBA;
+			buildPhases = (
+				9E04628C38F326FA0D125A24,
+				99BA63AE7A4A91F5D374F5F6,
+				062CC62A212F50661B9E9226,
+			);
+			buildRules = ( );
+			dependencies = (
+				A8AF2E96410B85B10BFD0FB6,
+			);
+			name = "pingPongDelay - Standalone Plugin";
+			productName = pingPongDelay;
+			productReference = 8101EBB25A5E706EE154EF48;
+			productType = "com.apple.product-type.application";
+		};
+		5A73D13E9CFC64A134CFAE1D = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D5DCDEBDA76DCB705CB676D3,
+				2D1CFA7705E4DE262D609DA6,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		2DB20CE025839592398888AB = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3557FE29C93D9E16342DBC65,
+				E43B87374814FB2A6C0DECD3,
+				5BC2194467EC61BEB302BE7D,
+				C60FB04B7B780A2B56FCAB1F,
+				1390A0D9867E86677501C029,
+				0743CC2CBA09A113940929C1,
+				B13CE02EC59FFFE5CD7ECAFB,
+				E7A9DE27ED35E55884833A7A,
+				3A55366E13AE809273AA6ACA,
+				C498878E0FE67BCC9BC98B51,
+				B287C3E8BD73572D9F54C11E,
+				2AFE598F6F7FFCC57C106C39,
+				3748BC02E4C8993764C043E2,
+				760983B5874E2423D37AA79A,
+				FCE8C865870003729898C274,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FC1D12D530528175FC3117F3 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5A73D13E9CFC64A134CFAE1D;
+			buildPhases = (
+				2DB20CE025839592398888AB,
+			);
+			buildRules = ( );
+			dependencies = ( );
+			name = "pingPongDelay - Shared Code";
+			productName = pingPongDelay;
+			productReference = 86EB24DF69806A6429916215;
+			productType = "com.apple.product-type.library.static";
+		};
+		F2A519E49976A31BF2AB493D = {
+			isa = PBXProject;
+			buildConfigurationList = B42488A41804341B5D50A0A7;
+			attributes = { LastUpgradeCheck = 1200; ORGANIZATIONNAME = ""; TargetAttributes = { 17B841E5DA2A15484A267D62 = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };CD2646D0BE21DEA7B60F2181 = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };F0F9BBBAA0E2C9F3579DED8E = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };EC096D9AAA6237908E78EF5A = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };FC1D12D530528175FC3117F3 = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; }; }; };
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			mainGroup = 918286B9E195CCC16A89E684;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (17B841E5DA2A15484A267D62, CD2646D0BE21DEA7B60F2181, F0F9BBBAA0E2C9F3579DED8E, EC096D9AAA6237908E78EF5A, FC1D12D530528175FC3117F3);
+			knownRegions = (en, Base);
+		};
+	};
+	rootObject = F2A519E49976A31BF2AB493D;
+}
